@@ -360,9 +360,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ### Built with ❤️ by [Nikhil AI Insights](https://github.com/nikhil-ai-insights)
 
 *If this project helped you or inspired you, please consider giving it a ⭐ on GitHub and sharing it with others!*
-
-<br />
-
-[![GitHub stars](https://img.shields.io/github/stars/nikhil-ai-insights/multilingual-ai-receptionist?style=social)](https://github.com/nikhil-ai-insights/multilingual-ai-receptionist)
-
-</div>
