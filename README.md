@@ -1,12 +1,4 @@
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/24%2F7-Available-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Multilingual-Supported-orange?style=for-the-badge&logo=google-translate&logoColor=white" />
-<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
-
-<br /><br />
-
+![image alt](https://github.com/nikhil-ai-insights/multilingual-ai-receptionist/blob/bd3ec0a8b98e0ea54645ac03d68ddf4adac0ba51/asset.png)
 # 🌍 Multilingual AI Receptionist
 
 ### *An Intelligent Voice-Based Automation System for Modern Businesses*
